@@ -1,0 +1,12 @@
+[submodule "hdl_lib"]
+	path = hdl_lib
+	url = https://github.com/suoto/hdl_lib
+[submodule "vim-hdl-examples"]
+	path = vim-hdl-examples
+	url = https://github.com/suoto/vim-hdl-examples
+[submodule "vunit"]
+	path = vunit
+	url = https://github.com/VUnit/vunit
+[submodule "grlib"]
+	path = grlib
+	url = https://github.com/suoto/grlib
